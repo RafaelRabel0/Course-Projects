@@ -1,2 +1,2 @@
-# Course-Projects
-Repositório dos pequenos projetos do Curso "Formação Front-End
+# Projeto
+Um pequeno projeto utilizando apenas HTML e CSS
